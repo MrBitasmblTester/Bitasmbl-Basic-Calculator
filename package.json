@@ -1,0 +1,6 @@
+// Starter package.json
+{
+  "name": "basic-calculator",
+  "version": "0.0.1",
+  "scripts": { "start": "ng serve" }
+}
