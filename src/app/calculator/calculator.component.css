@@ -1,0 +1,4 @@
+// src/app/calculator/calculator.component.css
+.calculator { width: 200px; margin: auto; }
+.display { background: #eee; padding: 10px; font-size: 1.5em; text-align: right; }
+.button { width: 45px; height: 45px; margin: 2px; }
